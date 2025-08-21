@@ -19,7 +19,7 @@ I enjoy building full-stack applications, working with secure systems, and explo
 
 ## Contact
 
-- Email: [ksharm67@asu.edu]  
+- Email: ksharm67@asu.edu
 - LinkedIn: [linkedin.com/in/kavish-sharma](https://linkedin.com/in/kavish-sharma)
 
 <!--
