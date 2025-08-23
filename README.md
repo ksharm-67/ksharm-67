@@ -7,9 +7,9 @@ I enjoy building full-stack applications, working with secure systems, and explo
 
 ## Skills
 
-**Languages & Frameworks:** C++, Python, Java, SQL, React.js, Flask  
-**Tools & Platforms:** Docker, AWS, OpenSSL, Git, Agile, CI/CD  
-**Concepts:** Multithreading, Secure Password Management, Encrypted Messaging, Kernel Modules  
+**Languages & Frameworks:** C++, Python, Java, SQL, React.js, Flask, MongoDB, HTML/css, R
+**Tools & Platforms:** Docker, Jira, Git, Agile, CI/CD, Clickhouse, 
+**Concepts:** Multithreading, Secure Password Management, Encrypted Messaging, Big-O Optimization, CRUD Operation
 
 ---
 
