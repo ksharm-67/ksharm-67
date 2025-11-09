@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a Computer Science student at Arizona State University (BS CS, Minor in English, GPA 3.7), with experience as a TA in math and a grader for English at ASU.<br>I enjoy building full-stack applications, working with secure systems, and exploring cloud technologies.
 
 
