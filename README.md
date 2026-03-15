@@ -1,5 +1,5 @@
 # About Me:
-I’m a Computer Science student at Arizona State University (BS CS, Minor in English, GPA 3.78), with experience as an Data Engineering Intern and TA in math at ASU.<br>I enjoy building full-stack applications, working with secure systems, and exploring cloud technologies.
+I’m a Computer Science student at Arizona State University (BS CS, Minor in English, GPA 3.78), with experience as a Software Engineering Intern and TA in math at ASU.<br>I enjoy building full-stack applications, working with secure systems, and exploring cloud technologies.
 
 
 ## Contact Me:
