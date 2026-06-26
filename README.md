@@ -1,5 +1,5 @@
 # About Me:
-I’m a Computer Science graduate from Arizona State University (BS CS, Minor in English, Summa Cum Laude), with experience as an ML intern, a SWE Intern and TA in the School of Math at ASU.<br>I enjoy building full-stack applications, working with secure systems, and exploring cloud technologies.
+I’m a Computer Science graduate from Arizona State University (Bachelor's in CS, Minor in English, Summa Cum Laude), with experience as an ML intern, a SWE Intern and Teaching assistant in the School of Math at ASU.<br>I enjoy building full-stack applications, working with secure systems, and exploring cloud technologies.
 
 
 ## Contact Me:
